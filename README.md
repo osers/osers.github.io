@@ -1,4 +1,4 @@
-# Welcome to OSERS (Open Source Entertainment System)
+# Welcome to OSERS (Open Source Entertainment Standard)
 
 You can find the OSERS website at https://osers.xyz
 
